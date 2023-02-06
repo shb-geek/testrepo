@@ -1,1 +1,2 @@
-hello, new file for git testing 
+hello, new file for git testing
+going good so far 
